@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8edecff7-ed58-4bf0-855d-f99db9624fdd" name="erby.dvlp" url="http://erby.dvlp/class/Stránky/">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\class\Stránky" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
